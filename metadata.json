@@ -1,0 +1,6 @@
+{
+  "name": "AI Face Swap Studio",
+  "description": "Swap single-face portrait photos with video subjects seamlessly for creative content creation and artistic expression.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
